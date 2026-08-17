@@ -7,7 +7,7 @@ class ClankVoice < Formula
   desc "Local push-to-talk dictation engine for clank preview (sherpa-onnx + Parakeet)"
   homepage "https://github.com/supaclank/clank"
   url "https://github.com/supaclank/clank/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "802f48d0fd754043bb55d22a63d4ff43b8e4ba72c8fdca6627e4fe50cdf9623c"
   license "AGPL-3.0-only"
   head "https://github.com/supaclank/clank.git", branch: "main"
 
